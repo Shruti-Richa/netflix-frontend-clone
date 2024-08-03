@@ -2,9 +2,6 @@
 
 This repository contains the frontend code for a Netflix clone web application, built using **HTML**, **CSS**, and **JavaScript**. The project mimics the look and functionality of Netflix, offering a user-friendly interface with responsive design and interactive features.
 
-## Live Demo
-
-You can view the live demo of the project [here](https://shruti-richa.github.io/netflix-frontend-clone/).
 
 ## Features
 
